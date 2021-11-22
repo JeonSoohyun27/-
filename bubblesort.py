@@ -13,3 +13,6 @@ def bubbleSort(list):
 list = [5,1,4,2,8]
 bubbleSort(list)
 print(list)
+
+#결과값 = [1,2,4,5,8]
+#O(n^2)
