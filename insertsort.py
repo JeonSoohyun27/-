@@ -1,6 +1,3 @@
-from typing import DefaultDict
-
-
 def insertSort(list):
 
     for i in range(1, len(list)):
